@@ -1,4 +1,4 @@
-package com.design.creationMode.factory.simple;
+package com.design.creationmode.factory.simple;
 
 /**
  * 宝马基类
@@ -7,7 +7,7 @@ package com.design.creationMode.factory.simple;
  * @author xufeng
  * @create: 2020/6/30
  */
-public class BaoMa {
+public abstract class BaoMa {
     public BaoMa() {
     }
 }
